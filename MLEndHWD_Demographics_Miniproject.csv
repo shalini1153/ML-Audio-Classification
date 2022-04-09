@@ -1,0 +1,276 @@
+ID,Language1,Language2,Age,Nationality,Coordinates,Gender
+S76,Hindi,English,20-24,Indian,"(40.60, -122.40)",Female
+S217,,,,,,Female
+S221,Malayalam,Hindi,25-29,Indian,"(11.8745, 75.3704)",Female
+S173,Akan,English,50-59,Ghanaian,"(5.6037, -0.1870)",Male
+S115,Hindi,English,20-24,Indian,"(28.7041, 77.1025)",Male
+S191,Indonesian,English,30-34,Indonesian,"(51.51, -0.06)",Male
+S95,,,,,,
+S139,,,,,,
+S222,English,Yoruba,25-29,Irish,"(51.48, 0.00)",Female
+S26,Arabic,English,30-34,Saudi,"(24.71,46.67)",Female
+S209,,,,,,
+S194,English,Somali,20-24,Dutch,"(51.58, -0.28)",Male
+S109,English,Arabic,20-24,British,"(51.48, -0.16)",Male
+S144,,,,,,
+S204,,,,,,
+S130,,,,,,
+S152,Russian,English,20-24,Russian,"(55.75, 37.62)",Male
+S86,Chinese,English,20-24,Chinese,"(51.52, -0.04)",Female
+S88,English,,20-24,British,"(51.40,-0.14)",Male
+S151,Spanish,English,30-34,Chilean,"(-33.44, -70.67)",Male
+S89,,,,,,
+S36,English,Urdu,20-24,Pakistani,"(51.53, 0.03)",Male
+S48,,,,,,
+S4,English,,20-24,British,"(51.68, 0.76)",Female
+S149,Arabic,English,25-29,Saudi,"(51, -0)",Female
+S179,Indonesian,English,35-39,Australian,"(51.51,0.12)",Female
+S212,Kannada,English,30-34,Indian,"(13.34, 74.74)",Female
+S50,,,,,,
+S102,Marathi,Hindi,25-29,Indian,"(51.50, -0.02)",Female
+S178,,,,,,
+S197,English,,30-34,American,"(39.17, -86.53)",Male
+S22,English,,25-29,American,"(37.7749, -122.4194)",Male
+S175,,,,,,
+S108,,,,,,
+S5,Bengali,English,30-34,Indian,"(22.5797, 88.4143)",Female
+S96,,,,,,
+S172,Chinese,English,20-24,Chinese,"(51.526,-0.056)",Female
+S162,,,,,,
+S182,Hindi,English,30-34,Indian,"(51.587370, -0.040330)",Female
+S201,,,,,,
+S68,Greek,English,20-24,Cypriot,"(35.1338, 33.3598)",Male
+S143,,,,,,
+S83,,,,,,
+S215,Dutch,French,35-39,Belgian,"(51.2206,4.4005)",Male
+S128,English,,35-39,British,"(51.56,-0.16)",Male
+S206,,,,,,
+S40,English,,25-29,American,"(38.83, -104.82)",Female
+S85,Gujarati,English,20-24,Indian,"(23.02,72.57)",Male
+S18,,,,,,
+S119,,,,,,
+S29,,,,,,
+S57,,,,,,
+S208,,,,,,
+S113,,,,,,
+S163,,,,,,
+S14,Persian,English,20-24,Iranian,"(35.6,51.3)",Female
+S136,,,,,,
+S16,,,,,,
+S7,Marathi,English,25-29,Indian,"(19.07,72.88)",Female
+S141,,,,,,
+S30,,,,,,
+S56,,,,,,
+S42,Persian,English,25-29,Iranian,"(51.58,-0.22)",Female
+S156,Hindi,English,20-24,Indian,"(25.665325,78.460938)",Female
+S111,,,,,,
+S211,,,,,,
+S188,,,,,,
+S140,Chinese,English,25-29,Chinese,"(34.9, 116.4)",Male
+S77,Arabic,French,25-29,Algerian,"(36.92, 7.75)",Male
+S99,English,Patois,20-24,Jamaican,"(51.52, -0.04)",Male
+S72,,,,,,
+S94,English,Russian,30-34,Canadian,"(54.2, -125.8)",Male
+S69,,,,,,
+S145,Chinese,German,50-59,German,"(30.54, 114.30)",Male
+S46,Bengali,Italian,35-39,Italian,"(51.51, -0.00074)",Female
+S202,Bengali,English,20-24,British,"(51.6242, 0.0604)",Female
+S24,,,,,,
+S121,Marathi,Hindi,25-29,Indian,"(20.76, 78.61)",Male
+S135,,,,,,
+S82,,,,,,
+S155,,,,,,
+S87,,,,,,
+S168,English,Spanish,25-29,American,"(32.7157, -117.1611)",Female
+S61,,,,,,
+S71,Hindi,Sadri,30-34,Indian,"(12, 77)",Female
+S44,Marathi,English,20-24,Indian,"(19.158174, 72.989011)",Male
+S158,Marathi,English,25-29,Indian,"(51.52841483060752, -0.024)",Male
+S27,,,,,,
+S207,,,,,,
+S49,Punjabi,English,20-24,Indian,"(52.064,-0.764)",Female
+S13,Hindi,English,20-24,Indian,"(28.71, 77.15)",Male
+S159,,,,,,
+S45,Marathi,English,20-24,Indian,"(18.52, 73.85)",Male
+S171,Hindi,English,30-34,Indian,"(28.52,77.39)",Male
+S153,Tamil,English,25-29,Indian,"(51.557496, 0.073161)",Male
+S205,German,Malayalam,20-24,Austrian,"(47.2575, 8.6947)",Female
+S180,,,,,,
+S169,Russian,English,20-24,Russian,"(51.51, -0.11)",Female
+S12,Telugu,English,20-24,Indian,"(17.3850, 78.4867)",Male
+S28,Telugu,English,20-24,Indian,"(17.3850, 78.4867)",Male
+S51,,,,,,
+S15,,,,,,
+S60,Chinese,English,25-29,Chinese,"(23.02, 113.75)",Male
+S21,Chinese,,20-24,Chinese,"(51.52, -0.04)",Male
+S74,,,,,,
+S73,,,,,,
+S41,,,,,,
+S67,Chinese,English,25-29,Chinese,"(51.32,0.01)",Male
+S129,Chinese,English,20-24,Chinese,"(32.71, 113.29)",Male
+S190,English,Cantonese,20-24,British,"(51.52, -0.04)",Male
+S220,,,,,,
+S132,English,Dhivehi,20-24,British,"(4.225372, 73.519459)",Male
+S160,Tamil,English,25-29,Indian,"(51.5592, 0.07)",Male
+S10,Russian,English,20-24,Uzbek,"(41.3775, 64.5853)",Male
+S192,Malayalam,English,20-24,Indian,"(13.06,80.23)",Male
+S183,,,,,,
+S98,,,,,,
+S214,Turkish,,25-29,Turkish,"(41.00,39.71)",Male
+S114,Lithuanian,Russian,20-24,Lithuanian,"(55.598, 26.353)",Male
+S1,Chinese,,25-29,Chinese,"(25.03, 121.56)",Male
+S33,,,,,,
+S90,English,Hindi,25-29,Indian,"(53.76,-2.70)",Male
+S31,English,Arabic,20-24,British,"(51.56, -0.28)",Male
+S116,,,,,,
+S43,English,,20-24,British,"(51.52, 0.19)",Female
+S112,,,,,,
+S92,Malayalam,Hindi,25-29,Indian,"(51.5912,0.1046)",Male
+S185,Vietnamese,English,25-29,Vietnamese,"(51.52, -0.04)",Male
+S80,English,,25-29,Nigerian,"(6.5244, 3.3792)",Male
+S186,English,,20-24,British,"(51.8032, 0.2087)",Female
+S122,Hindi,English,35-39,Indian,"(28.45,77.02)",Male
+S219,,,,,,
+S53,Chinese,English,20-24,Chinese,"(39.9, 116.4)",Male
+S118,Chinese,English,20-24,Chinese,"(39.13, 117.18)",Male
+S103,Malayalam,English,25-29,Indian,"(9.93, 76.26)",Male
+S164,Hindi,Marathi,25-29,Indian,"(19.5525, 74.1945)",Male
+S187,Gujarati,English,20-24,British,"(51.5848, 0.2787)",Male
+S79,English,Gujarati,20-24,British,"(51.55, 1.78)",Female
+S35,,,,,,
+S170,Marathi,English,25-29,Indian,"(19.42,72.81)",Male
+S32,Hindi,English,25-29,Indian,"(22.9504, 76.0317)",Male
+S91,Telugu,Hindi,25-29,Indian,"(16.998560, 81.802367)",Male
+S195,Vietnamese,English,20-24,Vietnamese,"(21.03, 105.83)",Male
+S2,,,,,,
+S134,,,,,,
+S100,Hindi,English,20-24,Indian,"(19.01, 73.01)",Male
+S200,English,Romanian,20-24,British,"(51.49104, -3.18103)",Female
+S17,,,,,,
+S101,,,,,,
+S52,Spanish,English,20-24,Colombian,"(10.97,-74.80)",Female
+S127,Urdu,English,25-29,Irish,"(31.48, 74.40)",Male
+S38,,,,,,
+S176,English,Bengali,20-24,British,"(51.52, 0.03)",Female
+S3,Telugu,English,20-24,Indian,"(12.97, 77.59)",Male
+S147,English,Tamil,25-29,Indian,"(13.08, 80.27)",Male
+S181,,,,,,
+S157,,,,,,
+S131,,,,,,
+S138,,,,,,
+S218,Hindi,English,20-24,Indian,"(20.5937, 78.9629)",Male
+S196,Malayalam,English,20-24,Indian,"(9.9312, 76.2673)",Female
+S25,,,,,,
+S78,English,,20-24,British,"(51.57900, 0.18500)",Male
+S37,,,,,,
+S39,Tamil,English,20-24,Indian,"(51.52, -0.04)",Male
+S126,Hindi,English,20-24,Indian,"(28.7,77.1)",Female
+S104,Gujarati,English,20-24,Indian,"(23.0225, 72.5714)",Male
+S133,English,Urdu,20-24,British,"(51.5072, 0.1276)",Male
+S58,Urdu,English,25-29,Pakistani,"(24.86, 67.00)",Male
+S216,English,Hindi,20-24,Indian,"(51.5082, 0.0014)",Male
+S66,English,Urdu,20-24,Pakistani,"(24.860735,67.001137)",Male
+S198,English,Spanish,25-29,British,"(51.43,-0.17)",Male
+S203,English,Marathi,25-29,British,"(51.547513,0.141118)",Male
+S9,,,,,,
+S189,Hindi,English,40-44,Indian,"(28.5355, 77.3910)",Male
+S23,Hindi,,25-29,Indian,"(26.84, 80.94)",Male
+S65,Tamil,English,20-24,Swiss,"(51.46, 0.03)",Female
+S167,,,,,,
+S8,Bulgarian,English,20-24,Bulgarian,"(44.11, 27.27)",Female
+S81,,,,,,
+S210,English,Filipino,25-29,Filipino,"(35.6620, 139.7038)",Male
+S11,,,,,,
+S20,Portuguese,English,20-24,Brazilian,"(-16.6869, -49.2648)",Female
+S97,Hindi,English,30-34,Indian,"(51.496, -0.014)",Male
+S55,Hindi,English,20-24,Indian,"(28.611027, 77.091175)",Male
+S137,English,Ukrainian,20-24,British,"(52.92, -1.47)",Male
+S125,,,,,,
+S105,English,Malayalam,20-24,Indian,"(25.2146, 55.3033)",Male
+S148,Russian,English,20-24,Russian,"(59.9311, 30.3609)",Female
+S199,Hindi,English,25-29,Indian,"(18.4926, 73.8757)",Female
+S47,Hindi,English,25-29,Indian,"(51.52,-0.02)",Female
+S142,Malayalam,,25-29,Indian,"(51.52,-0.04)",Male
+S161,Icelandic,English,25-29,Icelandic,"(64.1466, 21.9426)",Male
+S174,Hungarian,English,25-29,Hungarian,"(51.509865, -0.118092)",Male
+S120,Hindi,English,20-24,Indian,"(25.44, 81.85)",Female
+S150,Malayalam,English,25-29,Indian,"(10.89, 76.07)",Male
+S117,Malayalam,English,25-29,Indian,"(9.97,76.28)",Female
+S213,Portuguese,English,20-24,Portuguese,"(51.52, -0.04)",Male
+S165,Gujarati,Hindi,20-24,Indian,"(19.0760, 72.8777)",Male
+S193,Marathi,English,20-24,Indian,"(51.52, -0.04)",Male
+S59,Chinese,English,20-24,Chinese,"(51.52, -0.04)",Male
+S123,,,,,,
+S64,,,,,,
+S124,,,,,,
+S166,English,Spanish,25-29,American,"(34.85, -82.39)",Female
+S93,English,,25-29,British,"(53.645792, -1.785035)",Male
+S177,Chinese,English,25-29,Taiwanese,"(23.69, 120.96)",Female
+S54,Dutch,English,20-24,Dutch,"(40.10, 23.31)",Male
+S146,Chinese,English,25-29,Chinese,"(31.03, 121.22)",Female
+S184,Hindi,English,20-24,Indian,"(28.70, 77.10)",Male
+S75,Hindi,English,20-24,Indian,"(28.7041, 77.1025)",Female
+S70,Chinese,English,20-24,Chinese,"(51.54, -0.01)",Male
+S62,Chinese,,30-34,Chinese,"(22.28, 114.15)",Female
+S6,Chinese,English,20-24,Chinese,"(33.9,108.5)",Male
+S34,English,Urdu,20-24,British,"(51.509865, -0.118092)",Male
+S106,Urdu,English,20-24,Indian,"(49,-0.2)",Male
+S19,Chinese,English,25-29,Chinese,"(51.52, -0.04)",Female
+S84,Chinese,English,20-24,Chinese,"(39.09,115.33)",Male
+S63,Chinese,,25-29,Chinese,"(25.05, 119.30)",Male
+S107,,,,,,
+S154,Chinese,English,20-24,Chinese,"(34.16,108.95)",Female
+S110,Chinese,English,25-29,Chinese,"(31.23, 121.47)",Female
+S250,English,,20-24,British,"(51.5771, 0.1783)",Female
+S224,Chinese,,20-24,Chinese,"(34.16, 112.42)",Male
+S230,English,,30-34,British,"(51.48, -0.29)",Male
+S236,German,English,20-24,German,"(51.50,0.13)",Male
+S270,Urdu,English,20-24,Indian,"(28.7041, 77.1025)",Male
+S237,English,,25-29,British,"(51.52, -0.04)",Male
+S268,Kazakh,English,25-29,Kazakh,"(51.52, -0.04)",Female
+S231,English,,25-29,British,"(51.89, 0.61)",Female
+S258,English,Hindi,25-29,Indian,"(28.6139, 77.2090)",Female
+S223,Punjabi,English,25-29,Indian,"(51.52,-0.04)",Male
+S247,,,,,,
+S254,,,,,,
+S257,Tamil,Telugu,25-29,Indian,"(11.09,76.94)",Male
+S264,English,Tamil,20-24,Indian,"(11.6643, 78.1460)",Female
+S263,Marathi,English,20-24,Indian,"(19.86718, 75.36484)",Female
+S260,Telugu,,35-39,Indian,"(51.52, -0.04)",Female
+S241,Kannada,English,25-29,Indian,"(51.52,-0.05)",Female
+S235,Telugu,Hindi,20-24,Indian,"(17.47, 78.72)",Male
+S228,,,,,,
+S267,English,,20-24,British,"(52.48, -1.89)",Male
+S252,Shona,English,25-29,Zimbabwean,"(-17.82,31.05)",Male
+S227,English,Hindi,25-29,Indian,"(51.52, -0.04)",Male
+S232,Marathi,Hindi,25-29,Indian,"(20.760457, 78.617498)",Male
+S246,English,,20-24,British,"(51.5, 0.13)",Male
+S233,Hindi,English,20-24,Indian,"(28.52, 77.39)",Male
+S275,Greek,English,20-24,Cypriot,"(51.5125943,-0.2190144)",Male
+S272,Telugu,Hindi,20-24,Indian,"(51.52, -0.04)",Female
+S239,,,,,,
+S255,,,,,,
+S274,Gujarati,English,20-24,Indian,"(51.52, -0.04)",Male
+S265,English,Kannada,25-29,Indian,"(12.97, 77.5)",Male
+S271,Persian,Turkish,35-39,Iranian,"(32.4279,53.6880)",Male
+S251,Tamil,English,20-24,Indian,"(51.52, -0.04)",Male
+S240,Telugu,English,20-24,Indian,"(51.52, -0.04)",Male
+S245,Hindi,English,25-29,Indian,"(51.56,0.0088)",Female
+S261,Punjabi,English,30-34,Indian,"(51.52, -0.04)",Male
+S242,Hindi,English,20-24,Indian,"(26.11934, 83.54389)",Male
+S262,Sinhala,English,25-29,Sri Lankan,"(6.93, 79.86)",Male
+S238,Telugu,English,20-24,Indian,"(51.52, -0.04)",Female
+S259,Tamil,English,20-24,Indian,"(8.17, 77.43)",Male
+S226,Tamil,,20-24,Indian,"(10.7905, 78.7047)",Female
+S266,Hindi,English,20-24,Indian,"(51.52, -0.04)",Male
+S269,Chinese,English,20-24,Chinese,"(41.48,123.25)",Male
+S273,Bengali,English,25-29,Indian,"(22.70,88.37)",Male
+S234,Chinese,English,20-24,Chinese,"(51.52, -0.04)",Female
+S253,Hindi,English,45-49,Indian,"(25.80, 84.12)",Male
+S229,Chinese,English,25-29,Chinese,"(30.00, 120.00)",Male
+S249,,,,,,
+S243,,,,,,
+S225,,,,,,
+S248,,,,,,
+S244,English,Hindi,25-29,Indian,"(51.52, -0.04)",Female
+S256,,,,,,
